@@ -1,0 +1,21 @@
+name: Prod CI/CD
+run-name: Github Action Prod
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy-to-vercel:
+    name: Deploy to Vercel
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Install Vercel CLI
+        run: npm install -g vercel
+
+      - name: Deploy to Vercel
+        run: vercel --prod --yes --token=${{ secrets.VERCEL_TOKEN }}

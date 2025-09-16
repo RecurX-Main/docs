@@ -70,7 +70,7 @@ export default function IntroductionPage() {
               1. Utility-Centered Token (RCX)
             </h3>
             <p className="text-green-800 dark:text-green-200 text-sm leading-relaxed">
-              RCX isn't just a governance or speculative token – it is fundamentally embedded in the payment
+              RCX isn&apos;t just a governance or speculative token – it is fundamentally embedded in the payment
               infrastructure, facilitating all routing, conversion, and reward layers.
             </p>
           </div>
@@ -125,7 +125,7 @@ export default function IntroductionPage() {
 
         <div className="bg-gradient-to-r from-yellow-50 to-amber-50 dark:from-yellow-950/20 dark:to-amber-950/20 rounded-lg p-6 border border-yellow-200 dark:border-yellow-800">
           <h3 className="text-lg font-semibold mb-3 text-yellow-900 dark:text-yellow-100">
-            RecurX's Unique Value Proposition
+            RecurX&apos;s Unique Value Proposition
           </h3>
           <p className="text-yellow-800 dark:text-yellow-200 leading-relaxed">
             A true liquidity-driven, multi-chain, non-custodial payment engine that can scale globally while remaining

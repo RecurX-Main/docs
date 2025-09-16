@@ -197,7 +197,7 @@ app.post('/create-payment', async (req, res) => {
                 DIS (Decentralized Identity System)
               </h4>
               <p className="text-sm text-orange-800 dark:text-orange-200">
-                RecurX's optional identity verification system that enhances trust without compromising privacy.
+                RecurX&apos;s optional identity verification system that enhances trust without compromising privacy.
               </p>
             </div>
             <div className="bg-orange-100 dark:bg-orange-900/30 rounded-lg p-4 border border-orange-300 dark:border-orange-700">

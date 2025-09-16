@@ -27,7 +27,7 @@ export default function Home() {
         </p>
 
         <p className="text-base sm:text-lg leading-relaxed mb-6 sm:mb-8">
-          Whether you're a builder, investor, partner, or contributor - this GitBook serves as your starting point to
+          Whether you&apos;re a builder, investor, partner, or contributor - this GitBook serves as your starting point to
           understand the vision, technology, and mechanics behind the RecurX protocol.
         </p>
 

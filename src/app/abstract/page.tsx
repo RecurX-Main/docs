@@ -44,7 +44,7 @@ export default function AbstractPage() {
             <li className="flex items-start">
               <span className="text-green-600 dark:text-green-400 mr-2 mt-1 flex-shrink-0">•</span>
               <span>
-                <strong>Flexible liquidity architecture</strong> to counter volatility and support RecurX's role as the
+                <strong>Flexible liquidity architecture</strong> to counter volatility and support RecurX&apos;s role as the
                 internal routing token
               </span>
             </li>
