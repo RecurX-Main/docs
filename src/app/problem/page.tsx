@@ -17,8 +17,9 @@ export default function ProblemPage() {
         <div className="bg-gradient-to-r from-red-50 to-orange-50 dark:from-red-950/20 dark:to-orange-950/20 rounded-lg p-8 border border-red-200 dark:border-red-800 mb-8">
           <h2 className="text-2xl font-semibold mb-6 text-red-900 dark:text-red-100">Problem Statement</h2>
           <p className="text-lg leading-relaxed text-red-800 dark:text-red-200 mb-6">
-            Despite the explosive growth of Web3 and crypto infrastructure, payments in the decentralized world remain
-            fragmented, complex, and trust-deficient – especially for real-world commerce and recurring subscriptions.
+            Web3 payment systems remain fragmented, complex, and lack trust
+            mechanisms. Traditional gateways are centralized, and existing crypto payment solutions fail
+            to deliver scalability, cross-chain operability, subscription support, and reliable token utility.
           </p>
           <p className="text-red-800 dark:text-red-200 leading-relaxed mb-6">
             Traditional payment gateways like PayPal or Stripe offer seamless UX, settlement speed, and global

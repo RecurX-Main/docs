@@ -15,9 +15,10 @@ export default function UseCasesPage() {
 
       <div className="prose prose-gray dark:prose-invert max-w-none">
         <p className="text-lg leading-relaxed mb-8">
-          RecurX enables a wide range of payment scenarios across Web3 and traditional business models. From simple
-          one-time payments to complex subscription services, our protocol provides the flexibility and reliability
-          needed for modern digital commerce.
+          RecurX supports diverse payment scenarios including e-commerce, SaaS
+          subscriptions, DeFi integration, creator economy, gaming/metaverse, cross-border
+          remittances, and enterprise solutions, providing multi-currency checkout, instant settlement,
+          and subscription management.
         </p>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">

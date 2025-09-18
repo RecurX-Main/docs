@@ -16,9 +16,10 @@ export default function MarketAnalysisPage() {
 
       <div className="prose prose-gray dark:prose-invert max-w-none">
         <p className="text-lg leading-relaxed mb-8">
-          The global digital payments industry is undergoing a historic transformation. As user demand shifts from
-          centralized, fee-heavy platforms to decentralized, permissionless systems, the opportunity to disrupt and
-          modernize the <strong>$9+ trillion</strong> digital payments market is immense.
+          The global digital payments market is evolving rapidly, moving from centralized,
+          high-fee systems to decentralized solutions. RecurX targets the <strong> $9+ trillion </strong> market by
+          providing seamless multi-chain integration, low-fee settlements, and subscription capabilities
+          absent in current crypto payment protocols.
         </p>
 
         <p className="text-lg leading-relaxed mb-8">

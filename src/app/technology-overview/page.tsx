@@ -16,10 +16,9 @@ export default function TechnologyOverviewPage() {
 
       <div className="prose prose-gray dark:prose-invert max-w-none">
         <p className="text-lg leading-relaxed mb-8">
-          RecurX is built on a modular, multi-chain architecture designed for scalability, security, and seamless user
-          experience. The protocol leverages cutting-edge blockchain technology, smart contract optimization, and
-          decentralized liquidity aggregation to create a robust payment infrastructure that can handle millions of
-          transactions across multiple networks.
+         RecurX utilizes a modular, multi-chain architecture with gas-optimized smart
+         contracts, decentralized liquidity routing, and optional identity verification (DIS), offering
+         scalable, secure, and user-friendly payment solutions across multiple networks.
         </p>
 
         <div className="bg-gradient-to-r from-blue-50 to-indigo-50 dark:from-blue-950/20 dark:to-indigo-950/20 rounded-lg p-8 border border-blue-200 dark:border-blue-800 mb-8">

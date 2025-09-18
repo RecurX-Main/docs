@@ -15,10 +15,10 @@ export default function AbstractPage() {
 
       <div className="prose prose-gray dark:prose-invert max-w-none prose-sm sm:prose-base">
         <p className="text-base sm:text-lg leading-relaxed mb-4 sm:mb-6">
-          RecurX is a decentralized, multi-chain crypto payment protocol designed to modernize digital commerce by
-          enabling seamless, secure, and cost-efficient payments and subscriptions for Web3 and Web2 platforms alike. At
-          its core, RecurX leverages the RCX token to facilitate token routing, stabilize value transfers, incentivize
-          liquidity, and unlock programmable financial flows all without traditional intermediaries.
+         RecurX is a decentralized, multi-chain payment protocol crafted to modernize
+         digital commerce through secure, cost-efficient payments and subscription services for both
+         Web3 and Web2 platforms. The RCX token enables seamless routing, value stabilization,
+         liquidity incentives, and programmable financial flows without intermediaries.
         </p>
 
         <p className="text-base sm:text-lg leading-relaxed mb-4 sm:mb-6">

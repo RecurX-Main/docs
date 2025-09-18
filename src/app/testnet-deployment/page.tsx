@@ -16,9 +16,9 @@ export default function TestnetDeploymentPage() {
 
       <div className="prose prose-gray dark:prose-invert max-w-none">
         <p className="text-lg leading-relaxed mb-8">
-          The RecurX testnet provides developers with comprehensive tools and infrastructure for building, testing, and
-          deploying payment solutions. Our developer-first approach ensures seamless integration with existing systems
-          while providing powerful new capabilities for Web3 commerce.
+          RecurX testnet equips developers with tools for building, testing, and deploying
+          multi-chain payment and subscription solutions, including APIs, SDKs, smart contract
+          libraries, and integration examples for E-commerce, SaaS, and DeFi platforms.
         </p>
 
         <div className="bg-gradient-to-r from-blue-50 to-indigo-50 dark:from-blue-950/20 dark:to-indigo-950/20 rounded-lg p-8 border border-blue-200 dark:border-blue-800 mb-8">

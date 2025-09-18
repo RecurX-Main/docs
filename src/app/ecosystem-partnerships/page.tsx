@@ -16,9 +16,9 @@ export default function EcosystemPartnershipsPage() {
 
       <div className="prose prose-gray dark:prose-invert max-w-none">
         <p className="text-lg leading-relaxed mb-8">
-          RecurX builds strategic partnerships across the Web3 ecosystem to enhance functionality, expand reach, and
-          drive adoption. Our partnership strategy focuses on creating synergistic relationships that benefit all
-          stakeholders while advancing the broader adoption of decentralized payments.
+          RecurX partners with blockchain networks, DeFi protocols, wallets, fiat
+          gateways, infrastructure and security providers, and business platforms to extend reach,
+          enhance functionality, and support integration for Web2 and Web3 merchants.
         </p>
 
         <div className="bg-gradient-to-r from-blue-50 to-indigo-50 dark:from-blue-950/20 dark:to-indigo-950/20 rounded-lg p-8 border border-blue-200 dark:border-blue-800 mb-8">

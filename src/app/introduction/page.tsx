@@ -16,10 +16,11 @@ export default function IntroductionPage() {
 
       <div className="prose prose-gray dark:prose-invert max-w-none">
         <p className="text-lg leading-relaxed mb-6">
-          The global payment infrastructure, though foundational to commerce, remains burdened by outdated technologies,
-          high fees, geographical limitations, and reliance on centralized intermediaries. Web3 introduced programmable
-          value transfer, but mainstream adoption remains fragmented due to poor user experience, network complexity,
-          unstable tokenomics, and limited merchant integration.
+          Global payment systems are constrained by outdated technologies, high costs,
+          and reliance on centralized intermediaries. RecurX introduces a decentralized crypto-based
+          payment protocol for Web3 and Web2 businesses, offering multi-chain operability, near-zero
+          fees, and automated conversions for over 300 cryptocurrencies and 12 fiat currencies,
+          ensuring seamless payments and subscription management.
         </p>
 
         <p className="text-lg leading-relaxed mb-8">

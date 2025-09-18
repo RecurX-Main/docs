@@ -17,9 +17,10 @@ export default function SolutionPage() {
         <div className="bg-gradient-to-r from-green-50 to-emerald-50 dark:from-green-950/20 dark:to-emerald-950/20 rounded-lg p-8 border border-green-200 dark:border-green-800 mb-8">
           <h2 className="text-2xl font-semibold mb-6 text-green-900 dark:text-green-100">Solution</h2>
           <p className="text-lg leading-relaxed text-green-800 dark:text-green-200 mb-6">
-            RecurX is building the next-generation decentralized payment gateway – a multi-chain, gas-optimized, and
-            trust-enabled crypto payment infrastructure that rivals Stripe and PayPal, purpose-built for Web3 and
-            beyond.
+            RecurX delivers a decentralized, multi-chain, gas-optimized payment gateway. It
+            supports 300+ cryptocurrencies, built-in subscriptions, decentralized identity verification, and
+            RCX-driven token utility, ensuring low fees, real-time settlements, and scalable merchant
+            adoption.
           </p>
           <p className="text-green-800 dark:text-green-200 leading-relaxed">
             It simplifies payments and subscriptions for users, empowers merchants with powerful billing tools,

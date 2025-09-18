@@ -18,8 +18,9 @@ export default function VisionMissionPage() {
         <div className="bg-gradient-to-r from-blue-50 to-indigo-50 dark:from-blue-950/20 dark:to-indigo-950/20 rounded-lg p-8 border border-blue-200 dark:border-blue-800 mb-8">
           <h2 className="text-2xl font-semibold mb-6 text-blue-900 dark:text-blue-100">Vision</h2>
           <p className="text-lg leading-relaxed text-blue-800 dark:text-blue-200 mb-6">
-            To become the foundational payment infrastructure of Web3 enabling frictionless, borderless, and
-            trust-driven commerce for individuals, businesses, and dApps across the decentralized world.
+            Establish RecurX as the core payment infrastructure for Web3, enabling
+            seamless, borderless, and trust-centered transactions for individuals, businesses, and
+            dApps.
           </p>
           <p className="text-blue-800 dark:text-blue-200 leading-relaxed mb-6">
             In an era where digital finance is evolving rapidly, RecurX envisions a future where anyone from a freelance
@@ -39,9 +40,9 @@ export default function VisionMissionPage() {
         <div className="bg-gradient-to-r from-green-50 to-emerald-50 dark:from-green-950/20 dark:to-emerald-950/20 rounded-lg p-8 border border-green-200 dark:border-green-800 mb-8">
           <h2 className="text-2xl font-semibold mb-6 text-green-900 dark:text-green-100">Mission</h2>
           <p className="text-lg leading-relaxed text-green-800 dark:text-green-200 mb-6">
-            To simplify crypto payments and subscriptions for Web3 and Web2 businesses through a multi-chain, low-fee,
-            trust-based decentralized protocol powered by the RCX token and strengthened by community feedback,
-            performance-driven tokenomics, and robust infrastructure.
+            Simplify crypto payments and subscriptions through a multi-chain, low-fee,
+            decentralized protocol powered by RCX, supported by community feedback, robust
+            infrastructure, and performance-driven tokenomics.
           </p>
           <p className="text-green-800 dark:text-green-200 leading-relaxed mb-6">
             We are committed to solving the most pressing challenges in Web3 payments:

@@ -16,9 +16,10 @@ export default function CommunityGovernancePage() {
 
       <div className="prose prose-gray dark:prose-invert max-w-none">
         <p className="text-lg leading-relaxed mb-8">
-          RecurX implements a balanced governance model that combines community input with efficient decision-making.
-          While not a full DAO, our governance structure ensures transparency, community participation, and
-          accountability in key protocol decisions.
+          RecurX governance combines core team decision-making with selective
+          community voting on treasury, tokenomics, and emergency protocols. Governance employs
+          on-chain (smart contracts) and off-chain (Discord) mechanisms, along with
+          ambassador programs and community rewards.
         </p>
 
         <div className="bg-gradient-to-r from-blue-50 to-indigo-50 dark:from-blue-950/20 dark:to-indigo-950/20 rounded-lg p-8 border border-blue-200 dark:border-blue-800 mb-8">

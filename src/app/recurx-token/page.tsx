@@ -16,9 +16,10 @@ export default function RecurXTokenPage() {
 
       <div className="prose prose-gray dark:prose-invert max-w-none">
         <p className="text-lg leading-relaxed mb-8">
-          The RCX token is the cornerstone of the RecurX ecosystem, designed with real utility and sustainable
-          tokenomics. Unlike speculative tokens, RCX serves as the primary routing mechanism for payments, liquidity
-          provision, and ecosystem governance, creating genuine demand through protocol usage.
+          RCX is the utility token of the RecurX ecosystem, enabling payment routing,
+          staking, governance, and cashback rewards. Tokenomics include public/private sales, team
+          allocation, treasury management, and deflationary mechanisms via buyback and burn
+          programs.
         </p>
 
         <div className="bg-gradient-to-r from-blue-50 to-indigo-50 dark:from-blue-950/20 dark:to-indigo-950/20 rounded-lg p-8 border border-blue-200 dark:border-blue-800 mb-8">
@@ -84,7 +85,7 @@ export default function RecurXTokenPage() {
                   <td className="border border-green-300 dark:border-green-700 p-3">TGE: 20%, Linear 12 months</td>
                 </tr>
                 <tr className="bg-green-50 dark:bg-green-900/20">
-                  <td className="border border-green-300 dark:border-green-700 p-3 font-medium">Private Sale</td>
+                  <td className="border border-green-300 dark:border-green-700 p-3 font-medium">Investor</td>
                   <td className="border border-green-300 dark:border-green-700 p-3">15%</td>
                   <td className="border border-green-300 dark:border-green-700 p-3">150,000,000</td>
                   <td className="border border-green-300 dark:border-green-700 p-3">6 month cliff, Linear 18 months</td>
