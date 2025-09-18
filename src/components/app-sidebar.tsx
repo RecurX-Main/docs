@@ -85,7 +85,7 @@ const navSections = [
   {
     title: "Resources",
     items: [
-      { title: "Legal & Compliance", url: "/legal-compliance", icon: Shield },
+      // { title: "Legal & Compliance", url: "/legal-compliance", icon: Shield },
       { title: "Conclusion", url: "/conclusion", icon: Flag },
       { title: "Appendices", url: "/appendices", icon: Archive },
     ],
